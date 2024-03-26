@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-![Welcome Banner](banner.gif)
 
 <h3> :man: &nbsp;About Me </h3>
 
@@ -29,7 +28,14 @@
 
 
 <br/>
-
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/rahulsanagavarapu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulsanagavarapu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulsanagavarapu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
@@ -43,12 +49,5 @@
 
 
 <br/> 
-<p>
 
-<a align= "center" href="https://github.com/rahulsanagavarapu">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahulsanagavarapu&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
 
