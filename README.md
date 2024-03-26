@@ -1,7 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 ![Welcome Banner](banner.gif)
-
-
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
 
 <h3> :man: &nbsp;About Me </h3>
 
@@ -17,7 +15,7 @@
 
 - :space_invader:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
